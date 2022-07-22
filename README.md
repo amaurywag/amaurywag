@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="#">
+<img align="right" width="350" height="400" src="https://user-images.githubusercontent.com/86973979/180450847-601e5a92-16eb-4b1a-b1c2-e707689ea89b.png">
 <h1> Seja Bem Vind 👋 </h1>
 
 <h2> Oi, eu sou o Amaury! </h2>
@@ -11,4 +11,6 @@ Aqui é meu cantinho onde você encontrará códigos em diversas tecnologias que
 
 ![Snake animation](https://github.com/amaurywag/amaurywag/blob/output/github-contribution-grid-snake.svg)
 
-> É melhor viajar bem do que chegar - Buda
+> É melhor viajar bem do que chegar - Buda!
+
+
