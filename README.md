@@ -5,7 +5,7 @@
 
 Graduando em Análise e desenvolvimento de sistemas pelo Centro Universitário FAM e com ampla competência em desenvolvimento web Java, certificado pela Generation Brasil.
 
-Alagoano com uma paixão arretada por cuscuz e tecnologia, atualmente morando em São Paulo. Carismático, aventureiro, otimista e curioso, sempre entusiasmado por novos aprendizados e desafios.
+Sou alagoano com uma paixão arretada por cuscuz e tecnologia, atualmente morando em São Paulo. Carismático, aventureiro, otimista e curioso, sempre entusiasmado por novos aprendizados e desafios.
 
 Aqui é meu cantinho onde você encontrará códigos em diversas tecnologias.
 Fique a vontade! ☕
